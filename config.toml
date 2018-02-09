@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://github.com/Shiozaki-s21/Shiozaki-s21.github.io/makeSite"
+languageCode = "ja-JP"
 title = "My New Hugo Site"
+theme = "blackburn"
+canonifyurls = true
+hasCJKLanguage = true
