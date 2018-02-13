@@ -1,6 +1,6 @@
 baseURL = "https://shiozaki-s21.github.io/makeSite/"
 languageCode = "jp-JP"
-title = "My New Hugo Site!"
+title = "新しいサイト!"
 theme = "blackburn"
 canonifyurls = true
 hasCJKLanguage = true
