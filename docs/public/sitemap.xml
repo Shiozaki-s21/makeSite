@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shiozaki-s21.github.io/makeSite/post/testpost/</loc>
+    <loc>https://example.com/post/testpost/</loc>
     <lastmod>2018-02-10T00:27:28+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiozaki-s21.github.io/makeSite/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shiozaki-s21.github.io/makeSite/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2018-02-10T00:27:28+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shiozaki-s21.github.io/makeSite/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shiozaki-s21.github.io/makeSite/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2018-02-10T00:27:28+09:00</lastmod>
     <priority>0</priority>
   </url>
